@@ -1,5 +1,5 @@
 # IFH-Public
-This is a WIP platformer made in the LibGDX (Java) framework. This project is being moved/rebuilt in the Monogame (C#) framework.
+This is a WIP platformer made in the LibGDX (Java) framework. This project is being completely rebuilt in the Monogame (C#) framework.
 ## Notable Features
 * AABB Rectangle Collision
 * Player controller with crouching, climbing, flying. State based animation
@@ -12,6 +12,13 @@ This is a WIP platformer made in the LibGDX (Java) framework. This project is be
 * In game level editor / Auto-tiler with multiple layers. Two brush types (paint and fill)
 * Day night cycle and lighting via frameblending
 * Particles
+
+## Some New Features in Future C# Version
+* ECS System
+* ImGUI Property Editor
+* More abstractions for everything
+* Global Managers
+
 
 
 ![ezgif-7-41128ee3a4](https://user-images.githubusercontent.com/84607804/148322173-de825393-9631-45b1-ae0b-cf03673f9f9d.gif)
